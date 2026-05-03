@@ -20,7 +20,7 @@
 #include <stdlib.h>
 
 #if defined(MM64)
-
+//Khoi Ngo testing
 /*
  * init_pte - Initialize PTE entry
  */
